@@ -2,7 +2,7 @@
 
 import 'dart:async';
 
-import 'package:flutter_prueba_api_json/datos/repository/json_repository.dart';
+import 'package:flutter_prueba_api_json/User/repository/json_repository.dart';
 import 'package:generic_bloc_provider/generic_bloc_provider.dart';
 
 class DatosBloc implements Bloc{

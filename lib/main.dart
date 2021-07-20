@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_prueba_api_json/datos/bloc/bloc_datos.dart';
-import 'package:flutter_prueba_api_json/datos/ui/screens/vista_general.dart';
+import 'package:flutter_prueba_api_json/User/bloc/bloc_datos.dart';
+import 'package:flutter_prueba_api_json/User/ui/screens/vista_general.dart';
 import 'package:generic_bloc_provider/generic_bloc_provider.dart';
 
 void main() {
